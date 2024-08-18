@@ -46,7 +46,7 @@ export const experiencesData = [
     title: "Full-Stack Developer",
     location: "Chandigarh, India",
     description:
-      "I have done fullstack internship in chd company. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "I have done fullstack internship in chd company. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. ",
     icon: React.createElement(CgWorkAlt),
     date: "2024,May - july",
   },
@@ -54,7 +54,7 @@ export const experiencesData = [
     title: "Headstarted AI fellowship",
     location: "remote",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "i worked as a full stack developer and developed 3 projects in this fellowship",
     icon: React.createElement(FaReact),
     date: "2024,july-present",
   },
